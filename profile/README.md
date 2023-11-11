@@ -1,10 +1,11 @@
 ## Hi there 👋
+### We are Manga Raiku
+> 「無邪気な笑顔の下の、日付は遥かなメモリー」
 
 `Manga Raiku` is a `sibling` organization with [Anime Vsub](https://github.com/anime-vsub) whose mission is to make manga (mainly) and some other types of stories more accessible to everyone.
 
 The organization is currently hosting the app of the same name (which is a more advanced version of [Tachiyomi](https://github.com/tachiyomiorg/)) which is a free and ad-free cross-platform story-reading app.
 
-> The app will be available soon and the source code will be public
 <!--
 
 **Here are some ideas to get you started:**
