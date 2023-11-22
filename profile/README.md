@@ -16,3 +16,6 @@ The organization is currently hosting the app of the same name (which is a more 
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+### Send plugin for Raiku App
+Raiku application supports 3rd party plugins installed via url. But we also have a list of approved plugins to allow users to install them more easily. If you would like to submit your plugin there please open an `Issue` at the https://github.com/manga-raiku/services repo
